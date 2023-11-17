@@ -1,4 +1,15 @@
-
+.reloj{
+font-size: 40px;
+border-radius: 15px;
+background-color: blue;
+color:white;
+margin: 25px;
+padding: 25px;
+}
+.counter{
+    background-color: black;
+    text-align: center;
+}
 /* 
 
     You can write your own styles here...
