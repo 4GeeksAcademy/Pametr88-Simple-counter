@@ -5,7 +5,7 @@ import React,{useState,useEffect} from "react";
 //create your first component
 const Home = (props) => {
 	return (
-		<div>
+		<div className = "container">
 			<div className = "container row counter">
 				<div className="col reloj"><i className="far fa-clock"></i></div>
 				<div className="col reloj">{props.digicSix}</div>

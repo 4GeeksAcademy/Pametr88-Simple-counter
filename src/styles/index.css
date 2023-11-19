@@ -1,14 +1,18 @@
 .reloj{
-font-size: 40px;
+font-size: 60px;
 border-radius: 15px;
-background-color: blue;
-color:white;
+background-color: rgb(25, 25, 128);
+color:lightblue;
 margin: 25px;
 padding: 25px;
+height: 150px;
+text-align: center;
 }
 .counter{
-    background-color: black;
+    background-color: lightblue;
     text-align: center;
+    margin-top: 150px;
+    border-radius: 15px;
 }
 /* 
 
